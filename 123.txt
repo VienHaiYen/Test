@@ -1,9 +1,4 @@
 <<<<<<< HEAD
 ssd helo
 =======
-ssd
-
-vien hai yen - 20120633
-
-Hcmus - k20
->>>>>>> 9ec735123d02bb641ab6c7163ec3d653d9e148e3
+halooooooo
